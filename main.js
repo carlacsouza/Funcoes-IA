@@ -7,68 +7,68 @@ const testoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta?",
+        enunciado: "Imagine que você tirou 30 dias de férias e pode escolher seu destino, podendo levar quem quiser. Porém está com dúvida para onde ir, nós podemos te ajudar. Qual o clima de sua preferência?",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: "Lugares quentes.",
+                afirmacao: "lembre-se de levar protetor solar.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Lugares frios.",
+                afirmacao: "Lembre-se de levar agasalhos",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Ótimo! Continuando com a sua preferência, o lugar que deseja ir, será...",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Lugares agitados e movimentados",
+                afirmacao: "Sempre fique atento, mantenha seus pertences próximos.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Lugares calmos e aconchegantes;",
+                afirmacao: "Aproveite suas férias para tirar um descanso",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Maravilhoso! Me conte... Quem irá te acompanhar?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Familia e/ou pets.",
+                afirmacao: "Hóteis e resorts são a melhor opção para você.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Amigos.",
+                afirmacao: "Airbnb e empresas de turismo podem te auxiliar.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Bom! de acordo com seu financeiro, quanto pretende gastar em sua viagem?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Até três sálarios mínimos.",
+                afirmacao: "Boa opção para você, são viagens nacionais.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Acima de trẽs sálarios mínimos",
+                afirmacao: "Você irá adorar conhecer novos paises.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Para finalizar... Qual o meio de locomoção você pretende utilizar para chegar ao seu destino.",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "Carro ou motocicleta.",
+                afirmacao: "Seu destino pode ser próximo de você.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Avião ou ônibus.",
+                afirmacao: "Sair de sua zona de conforto e conhecer novos horizontes.",
             }
         ]
     },
-];
+];'1                                                                                                                                                                                                '
