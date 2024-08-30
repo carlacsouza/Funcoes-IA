@@ -78,6 +78,9 @@ let perguntaAtual;
 let historiaFinal = "";
 
 function mostraPergunta(){
+    if(atual >= perguntas.length){
+        mostra
+    }
     perguntaAtual = perguntas[atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
     mostraAlternativas();
@@ -93,7 +96,7 @@ function mostraAlternativas(){
         
 }
 
-function repostaSelecionada(opcaoSelecionada){
+function respostaSelecionada(opcaoSelecionada){
     const afirmacoes = opcaoSelecionada.afirmacoes;
     historiaFinal = afirmacoes;
     atual++;
