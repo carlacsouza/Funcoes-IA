@@ -99,14 +99,14 @@ function mostraAlternativas(){
 }
 
 function respostaSelecionada(opcaoSelecionada){
-    const afirmacoes = opcaoSelecionada.afirmacoa;
+    const afirmacoes = opcaoSelecionada.afirmacao;
     historiaFinal += afirmacoes + " ";
     atual++;
     mostraPergunta();
 }
 
 function mostraResultado(){
-    caixaPerguntas.textContent = "Seguindo suas respostas em nossa pesquisa, a viagem ideal para você seria referente à essas sugestões:"
+    caixaPerguntas.textContent = "Seguindo suas respostas em nossa pesquisa, a viagem ideal para você seria referente à essas sugestões:";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
