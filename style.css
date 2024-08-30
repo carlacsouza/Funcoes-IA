@@ -2,8 +2,8 @@
     --cor-fundo: #080000fa;
     --cor-principal: #be0802;
     --cor-secundaria: #e91e10;
-    --cor-destaque: #050505;
-    --cor-texto: #20020200;
+    --cor-destaque: hsl(0, 0%, 2%);
+    --cor-texto: #ffff;
 }
 
 body {
