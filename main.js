@@ -28,7 +28,7 @@ const perguntas = [
             },
             {
                 texto: "Lugares calmos e aconchegantes;",
-                afirmacao: "Aproveite suas férias para tirar um descanso",
+                afirmacao: "aproveite suas férias para tirar um descanso",
             }
         ]
     },
@@ -37,7 +37,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Familia e/ou pets.",
-                afirmacao: "Hóteis e resorts são a melhor opção para você.",
+                afirmacao: "hoteis e resorts são a melhor opção para você.",
             },
             {
                 texto: "Amigos.",
@@ -53,7 +53,7 @@ const perguntas = [
                 afirmacao: "Boa opção para você, são viagens nacionais.",
             },
             {
-                texto: "Acima de trẽs sálarios mínimos",
+                texto: "Acima de três sálarios mínimos",
                 afirmacao: "Você irá adorar conhecer novos paises.",
             }
         ]
